@@ -3,7 +3,7 @@ package gpflag
 import (
 	"os"
 
-	"github.com/octago/sflags"
+	"github.com/qwenode/sflags"
 	"github.com/spf13/pflag"
 )
 

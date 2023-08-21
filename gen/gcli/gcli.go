@@ -1,7 +1,7 @@
 package gcli
 
 import (
-	"github.com/octago/sflags"
+	"github.com/qwenode/sflags"
 	"github.com/urfave/cli"
 )
 

@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/octago/sflags"
-	"github.com/octago/sflags/gen/gpflag"
+	"github.com/qwenode/sflags"
+	"github.com/qwenode/sflags/gen/gpflag"
 	"github.com/spf13/cobra"
 )
 
